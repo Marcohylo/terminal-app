@@ -2,6 +2,8 @@
 
 The aim of this project was to create a short terminal application using the fundamentals of the computer language, Ruby. In this project I created a simple yet straight forward, BlackJack type game drawing inspiration from the popular card game of the same name. 
 
+## Links 
+- [Github README](https://github.com/Marcohylo/terminal-app)
 
 ## Description of the application
 
