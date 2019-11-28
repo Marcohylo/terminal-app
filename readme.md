@@ -123,5 +123,5 @@ ruby app.rb -a
 
 ## Authors
 
-* **Marco Lo** - *Initial work* - [CayNex6](https://github.com/CayNex6)
+* **Marco Lo** - *Initial work* - [Marcohylo] (https://github.com/Marcohylo/)
 
